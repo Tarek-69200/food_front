@@ -8,6 +8,10 @@ import Commande from '../components/Commands.vue'
         <h1>Commande réalisée</h1>
 
         <Commande />
+
+        <p>
+            
+        </p>
                
     </div>
 
