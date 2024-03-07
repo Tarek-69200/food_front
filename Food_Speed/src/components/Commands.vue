@@ -5,7 +5,6 @@ import WelcomeItem from './WelcomeItem.vue'
 
 <template>
     <div class="commands">
-        <h1>Commandes</h1>
         <WelcomeItem
         title="Documentation"
         text="Find in-depth information about Vue features and API."
